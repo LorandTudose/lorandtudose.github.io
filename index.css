@@ -71,6 +71,7 @@ html {
 
 }
 .punct {
+  position: sticky;
   color: #00ccff;
   font-size: 100px;
   font-weight: 600;
