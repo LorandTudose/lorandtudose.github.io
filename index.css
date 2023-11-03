@@ -58,7 +58,17 @@ html {
   font-weight: 600;
   display: inline-block;
 }
+#lucrud{  position: fixed;
+  left:50%;
+  bottom: 5%;
+  margin:auto;
 
+}
+.lucru{
+  font-size: 50px;
+  font-weight: 900;
+  color: white;
+}
 .punct {
   color: #00ccff;
   font-size: 100px;
